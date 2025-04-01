@@ -1,0 +1,22 @@
+linear_regression_project/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   └── exploratory_data_analysis.ipynb
+│
+├── src/
+│   ├── __init__.py
+│   ├── data_preprocessing.py
+│   ├── model.py
+│   ├── train.py
+│   └── evaluate.py
+│
+├── config/
+│   └── config.yaml
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
